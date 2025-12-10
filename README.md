@@ -465,7 +465,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 - **Issues:** [GitHub Issues](https://github.com/seu-usuario/FutMatch/issues)
 - **Documentação:** Consulte `futmatch-nodejs/README.md`
-- **Email:** contato@futmatch.com
+- **Email:** nykolasguimaraes37@gmail.com
 
 ---
 
@@ -478,3 +478,4 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 [⬆ Voltar ao topo](#-futmatch)
 
 </div>
+

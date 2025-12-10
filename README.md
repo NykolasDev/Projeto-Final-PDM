@@ -453,14 +453,6 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ---
 
-## 🙏 Agradecimentos
-
-- Comunidade de desenvolvedores
-- Todos os contribuidores
-- Usuários que testam e reportam bugs
-
----
-
 ## 📞 Suporte
 
 - **Issues:** [GitHub Issues](https://github.com/seu-usuario/FutMatch/issues)
@@ -478,4 +470,5 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 [⬆ Voltar ao topo](#-futmatch)
 
 </div>
+
 
